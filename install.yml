@@ -1,0 +1,5 @@
+# hiro ff installation config
+# used by h-install
+
+bin:
+  bin/h-ff
